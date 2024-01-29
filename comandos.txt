@@ -1,0 +1,5 @@
+# Criação de ambiente virtual
+python -m venv dashenv
+
+# ativar virtual env
+source .dashenv/Scripts/activate

@@ -1,0 +1,9 @@
+venv
+*.pyc
+.DS_Store
+.dashenv
+product_images
+app_old.py
+index copy.py
+__pycache__/
+app_campaign_funnel.py

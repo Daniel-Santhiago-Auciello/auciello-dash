@@ -1,0 +1,80 @@
+/* ========== Main Configs ============ */
+*{
+    box-sizing: border-box;
+}
+
+body {
+    height: 99vh;
+    background-size: 300% 300%;
+}
+
+::-webkit-scrollbar {
+    display: none; /* Chrome, Safari e Opera */
+}
+
+/* ============ Corrigindo as cores do menu dropdown ===========*/
+
+
+.Select-control{
+    height: 48px;
+    background-color: white !important;
+    color:rgb(25, 25, 25);
+    font-family: Montserrat,-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif !important;
+}
+
+.Select-placeholder{
+    line-height: 25px;
+    background-color: white;
+    color: rgb(25, 25, 25);
+    font-family: Montserrat,-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif !important;
+}
+
+.Select-value-label{
+    font-size: 15px;
+    color: rgb(25, 25, 25) !important;
+    font-family: Montserrat,-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif !important;
+}
+
+  
+.Select-menu-outer {
+    background-color: white !important;
+    color: rgb(25, 25, 25) !important;
+    font-family: Montserrat,-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif !important;
+}
+
+.Select-value {
+    background-color: white !important;
+    color: rgb(25, 25, 25) !important;
+    font-family: Montserrat,-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif !important;
+}
+
+.Select-input {
+    background-color: white !important;
+    color: rgb(25, 25, 25) !important;
+    font-family: Montserrat,-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif !important;
+}
+
+.Select-control {
+    background-color: white !important;
+    color: rgb(25, 25, 25) !important;
+    font-family: Montserrat,-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif !important;
+}
+
+.Select.has-value.is-clearable.is-searchable.Select--single {
+    background-color: white !important;
+    color: rgb(25, 25, 25) !important;
+    font-family: Montserrat,-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif !important;
+}
+
+.Select-multi-value-wrapper {
+    background-color: white !important;
+    color: rgb(25, 25, 25) !important;
+    font-family: Montserrat,-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif !important;
+}
+
+#lista_campanhas {
+    background-color: white !important;
+    color: rgb(25, 25, 25) !important;
+    font-family: Montserrat,-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif !important;
+}
+

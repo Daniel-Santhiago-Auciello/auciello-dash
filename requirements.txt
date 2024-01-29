@@ -1,0 +1,11 @@
+dash
+pandas
+openpyxl
+pandas-gbq
+google-auth
+google-auth-oauthlib 
+google-auth-httplib2
+tqdm
+dash-bootstrap-components
+dash_bootstrap_templates
+gunicorn
